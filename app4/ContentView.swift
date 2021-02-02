@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
        modalView()
             .font(.callout)
-            .foregroundColor(Color.red)
+            .foregroundColor(Color.blue)
             .padding()
             
     }
